@@ -92,6 +92,9 @@ Join the discord server to:
 
 <!-- /TOC -->
 
+## Cambridge area
+The Cambridge ecosystem is also known as ["Silicon Fen"](https://en.wikipedia.org/wiki/Silicon_Fen). The area is now one of the most important technology centres in Europe.
+
 # Useful local links and advice
 
 ## University environment / startup ecosystem
