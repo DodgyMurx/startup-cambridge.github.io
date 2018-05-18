@@ -27,6 +27,8 @@ So far, there have been 15 companies that achieved this milestone:
 
 ## Regular startup competitions
 
+## Local companies with special offers for local startups (e.g. deferred payments, variable payments)
+
 
 ## License
 The license for this content is https://creativecommons.org/licenses/by/3.0/
