@@ -83,13 +83,70 @@ venture funds
 * [Darrin Disley](https://geospock.com/team/darrin-disley-phd/)
 * [Jonathan Hay](https://www.linkedin.com/in/jonathan-hay-2046046/)
   * Cambridge-based Partner at Delin Capital, London
+* Herman Hauser
+* Matt Bellamy
+* Robert Sansom
+* David Cleevely
+* James Sore
+* David Gammon
+* Neil Davidson
+* Jon Bradford
+* Pilgrim Beart
+* Chris Torrance
+* Tim Parsonson
+* Hamish Anderson
+* Alex Sutherland
+* Alan Moore
+* Alex van Someren
+* Max Bautin
+* Kerry Baldwin
+* David Grainger
+* Victor Christou
+* Ed Stacey
+* Robert Wardrop
+* William H. Janeway
+* Pete Menell
+* Goncalo de Vasconcelos
+* Robert Tansley
+* Allister Frost
+* Daniel Cowell
 
-### VCs
+### VCs / Investing organisations
 * [Cambridge Innovation Capital](https://www.cicplc.co.uk/)
   * £50m venture capital fund
 * [ET Capital](http://www.etcapital.com/)
   * Managing director of ET Capital Limited: Martin Rigby
 * [Cambridge Venture Partners Ltd.](http://cambridge.ventures/)
+* SyndicateRoom
+* Cambridge Innovation Capital plc
+* IQ Capital Partners LLP
+* University of Cambridge Enterprise
+* Cambridge Capital Group
+* GEIF Ventures
+* The Cambridge Gateway Fund
+* Springboard
+* Acacia Capital Partners
+* ARM
+* Chord Capital
+* Invoke Capital Partners
+* ETCapital
+* NW Brown Ventures
+* Rockspring
+* Martlet
+* University of Cambridge
+* CREATE Partners
+* Fund Twenty8
+* ProQuest
+* Qi3 Ventures
+* University of Cambridge Endowment Fund
+* Horizon Discovery
+* Red Gate Software
+* CSR
+* Oxford & Cambridge Ventures
+* Aitua Ltd
+* Accelerate Cambridge
+* Cantab Capital Partners
+* FUSION Biomed
 
 ## Local startup news
 
