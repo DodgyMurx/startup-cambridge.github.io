@@ -11,6 +11,11 @@ You can get the Discord app for free from: https://discordapp.com/
 ### University societies
 
 * [Cambridge University Entrepreneurs (CUE)](https://www.cue.org.uk/)
+  * Largest entrepreneur society at Cambridge University
+* [Cambridge University Technology and Enterprise Club (CUTEC)](http://www.cutec.org/)
+  * Annual VC conference
+* [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
+  * Younger society, founded in October 2016
 
 ### University institutions
 
