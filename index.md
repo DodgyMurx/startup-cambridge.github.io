@@ -6,6 +6,13 @@ Free, open [discord server](https://discord.gg/hspfpFp) to discuss ideas, proble
 
 You can get the Discord app for free [here](https://discordapp.com/)
 
+# Table of contents
+1. [University environment](#University environment)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+# Useful links and advice 
+
 ## University environment
 
 ### University societies
