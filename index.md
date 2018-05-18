@@ -10,8 +10,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
 
 # Table of contents
 1. [University environment](#University-environment)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+2. ...
 
 # Useful links and advice 
 
@@ -90,6 +89,10 @@ So far, there have been 15 companies that achieved this milestone:
 
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
+
+## Workspaces
+
+* ...
 
 ## Important advice
 
