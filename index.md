@@ -1,5 +1,6 @@
 # Startup Cambridge
-A local community to help building new businesses in Cambridge / UK.
+* A local community to help building new businesses in Cambridge / UK.
+* The focus is on the University of Cambridge but we will also list useful links for outside this academic ecosystem.
 
 This overview is available under the domain [startup-cambridge.com](http://startup-cambridge.com).
 
@@ -136,19 +137,19 @@ These societies are not directly entrepreneurial but focus on specific technolog
 
 ### Regular startup competitions / awards
 
+#### University of Cambridge
+
 * [Cambridge University Entrepreneurs (CUE) annual competitions](https://www.cue.org.uk/)
   * £100 for 100 words
   * £2k for a basic business plan / pitch
   * £10k
   * Young Entrepreneur of the Year track with Darrin Disley
 * [Entrepreneurial Postdocs of Cambridge (EPOC) Business Plan Competition](https://www.epoc.group.cam.ac.uk/business-plan-competition)
+
+#### Anglia Ruskin University
+
 * [Anglia Ruskin University competition "The Big Pitch"](http://thebigpitch.co.uk/)
   * Annual competition exclusively for undergraduate and postgraduate students at Anglia Ruskin University
-
-### Accelerator programmes & similar
-
-* [Accelerate Cambridge](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/)
-  * Run by the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/)
 
 #### Organised by colleges
 Competitions organisaed by colleges often require one team member to be member of the college.
@@ -163,6 +164,11 @@ Competitions organisaed by colleges often require one team member to be member o
   * Annual business plan competition for all students of Downing College
   * Prizes of up to £2000 for one-page business descriptions
   * [Report from past competition](http://www.dow.cam.ac.uk/news/downing-enterprise-first-round-impresses-judges)
+
+### Accelerator programmes & similar
+
+* [Accelerate Cambridge](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/)
+  * Run by the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/)
 
 ## Local domain experts who are open to discuss problems with you
 
@@ -367,7 +373,7 @@ These offers may be discounts, deferred payments, or variable payments linked to
 * http://startupbritain.org/
 
 #### Competitions
-*
+* ...
 
 
 ## You want to add / change something?
