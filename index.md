@@ -1,4 +1,6 @@
 # Startup Cambridge
+![header](https://s3.eu-west-2.amazonaws.com/startup-cambridge/header_startup_cambridge.png "header")
+
 * A local community to help building new businesses in Cambridge / UK.
 * The focus is on the University of Cambridge but we will also list useful links for outside this academic ecosystem.
 
