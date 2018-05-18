@@ -94,6 +94,11 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 * ...
 
+## Entrepreneur events
+
+* [EPOC events](https://www.epoc.group.cam.ac.uk/events)
+* [Enterprise Tuesday](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/enterprise-tuesday/)
+
 ## Important advice
 
 ### SEIS and EIS scheme
