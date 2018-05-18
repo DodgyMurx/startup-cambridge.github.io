@@ -20,7 +20,7 @@ Unicorns are companies that reached a 1 billion dollar valuation.
 So far, there have been 15 companies that achieved this milestone:
 
 1. ...
-1. (Darktrace)[https://www.darktrace.com/] - The world leader in Enterprise Immune System technology for cyber security.
+1. [Darktrace](https://www.darktrace.com/) - The world leader in Enterprise Immune System technology for cyber security.
 
 
 ## Cambridge next unicorn candidates
