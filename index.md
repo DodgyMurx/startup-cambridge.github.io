@@ -71,9 +71,9 @@ Join the discord server to:
 			- [Competitions](#competitions)
 	- [You want to add / change something?](#you-want-to-add-change-something)
 		- [Markdown](#markdown)
-		- [Maintainers](#maintainers)
-			- [Responsible editor](#responsible-editor)
-			- [Contributors](#contributors)
+	- [Maintainers](#maintainers)
+		- [Responsible editor](#responsible-editor)
+		- [Contributors](#contributors)
 	- [License](#license)
 
 <!-- /TOC -->
@@ -376,12 +376,12 @@ Send an email to pw351 @ cam (typical Cambridge university email)
 ### Markdown
 The current overview is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), the standard markup language for GitHub. This document may later be converted into an HTML document.
 
-### Maintainers
+## Maintainers
 
-#### Responsible editor
+### Responsible editor
 The overview is maintained by Pascal Wichmann (pw351) and Marc Felske with contributions from many others.
 
-#### Contributors
+### Contributors
 * ...
 
 ## License
