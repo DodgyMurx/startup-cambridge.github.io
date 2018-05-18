@@ -70,13 +70,10 @@ So far, there have been 15 companies that achieved this milestone:
 * [Prowler.io](https://www.prowler.io/)
 * [Geospock](https://geospock.com/)
 
-### Other Cambridge startups
+### Current Cambridge startups
 
-* ...
-
-### Freshly hatched startups
-
-* ...
+* [Reinforce.io](https://reinforce.io/)
+* [Heterogeneous](https://www.heterogeneous.co.uk/)
 
 ### Sold startups
 
