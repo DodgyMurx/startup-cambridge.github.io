@@ -65,6 +65,13 @@ So far, there have been 15 companies that achieved this milestone:
 
 * ...
 
+### Sold startups
+
+* [SwiftKey (sold to Microsoft](https://www.microsoft.com/en-us/swiftkey/about-us)
+  * Founded by three Cambridge graduates
+  * Founded in 2008
+  * Acquired by Microsoft for a reported $250m in 2016.
+
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
 
