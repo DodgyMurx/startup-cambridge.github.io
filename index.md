@@ -21,9 +21,6 @@ Join the discord server to:
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Startup Cambridge](#startup-cambridge)
-	- [Discord server](#discord-server)
-- [Table of contents](#table-of-contents)
 - [Useful local links and advice](#useful-local-links-and-advice)
 	- [University environment / startup ecosystem](#university-environment-startup-ecosystem)
 		- [Entrepreneurial student societies](#entrepreneurial-student-societies)
@@ -155,6 +152,13 @@ Competitions organisaed by colleges often require one team member to be member o
   * Restricted to Churchill college members
 * [King's College Entrepreneurship Prize](http://www.kings.cam.ac.uk/entrepreneurship-prize-2018)
   * Annual prize; team leader must be a King's member; £20,000 top prize
+* [Downing Enterprise](https://www.downingcambridge.com/downing-enterprise)
+  * Annual business plan competition for all students of Downing College
+  * Prizes of up to £2000 for one-page business descriptions
+  * [Report from past competition](http://www.dow.cam.ac.uk/news/downing-enterprise-first-round-impresses-judges)
+* [Fitz Enterprise](http://fitzenterprise.soc.srcf.net/about.html)
+  * Fitzwilliam's entrepreneur society
+	* [Events](http://fitzenterprise.soc.srcf.net/events.html)
 
 ## Local domain experts who are open to discuss problems with you
 
