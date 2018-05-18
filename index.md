@@ -6,14 +6,19 @@ Free, open discord server to discuss ideas, problems, tech with fellow local ent
 
 You can get the Discord app for free from: https://discordapp.com/
 
-## University societies
+## University environment
 
-* Cambridge University Entrepreneurs (CUE)
-  * https://www.cue.org.uk/
+### University societies
 
-## Regular startup competitions
+* [Cambridge University Entrepreneurs (CUE)](https://www.cue.org.uk/)
 
-* [Cambridge University Entrepreneurs (CUE) annual competitions]()
+### University institutions
+
+* [Cambridge Enterprise](https://www.enterprise.cam.ac.uk/)
+
+### Regular startup competitions
+
+* [Cambridge University Entrepreneurs (CUE) annual competitions](https://www.cue.org.uk/)
   * £100 for 100 words
   * £2k for a basic business plan / pitch
   * £10k
@@ -34,6 +39,9 @@ So far, there have been 15 companies that achieved this milestone:
 
 1. ...
 1. [Darktrace](https://www.darktrace.com/) - The world leader in Enterprise Immune System technology for cyber security.
+1. [Improbable](https://improbable.io/)
+  * Founded by Cambridge alumni Herman Narula (Girton 2007) and Rob Whitehead (Robinson 2009)
+  * [Wired article from May 2017](http://www.wired.co.uk/article/improbable-quest-to-build-the-matrix)
 
 ### Cambridge next unicorn candidates
 
