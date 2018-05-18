@@ -117,5 +117,5 @@ If you are tech-savvy:
 Otherwise, send an email to pw351 @ cam
 
 ## License
-* The license for this content is a [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/).
+* The license for this content is a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 * Please use attribution with link to this page (startup-cambridge.github.io).
