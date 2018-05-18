@@ -36,8 +36,14 @@ The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.u
 * [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
   * Younger society, founded in October 2016
+
+### Other student initiatives
 * [Innovation Forum](http://cambridge.inno-forum.org/)
   * The Innovation Forum is a student-led initiative that seeks to build bridges between academia, industry and policy makers.
+* [Hackbridge.io](Hackbridge.io)
+* [Science Union](http://science-union.org/)
+  * Non-profit organisation
+  * Support for translating science into real-world solutions
 
 #### Others
 * [i-Teams](https://iteamsonline.org/about-i-teams/)
@@ -65,6 +71,11 @@ The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.u
 * [Entrepreneurial Postdocs of Cambridge (EPOC) Business Plan Competition](https://www.epoc.group.cam.ac.uk/business-plan-competition)
 * [Anglia Ruskin University competition "The Big Pitch"](http://thebigpitch.co.uk/)
   * Annual competition exclusively for undergraduate and postgraduate students at Anglia Ruskin University
+
+### Accelerator programmes & similar
+
+* [Accelerate Cambridge](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/)
+  * Run by the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/)
 
 #### Organised by colleges
 Competitions organisaed by colleges often require one team member to be member of the college.
@@ -263,6 +274,12 @@ These offers may be discounts, deferred payments, or variable payments linked to
 * [UK Business Angel association](https://www.ukbaa.org.uk/)
 
 ## Non-local links
+
+### London
+
+* [Entrepreneur First (EF)](https://www.joinef.com/)
+  * London-based company builder and startup accelerator
+  * You can join them without having an idea yet
 
 ### UK-wide
 * http://startupbritain.org/
