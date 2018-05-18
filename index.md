@@ -231,14 +231,21 @@ If you are tech-savvy:
 * Make your changes in the spirit of this document
 * Then send a pull request
 
-Otherwise, send an email to pw351 @ cam
+If you are medium tech-savvy:
+* Click [here](https://github.com/startup-cambridge/startup-cambridge.github.io) to get to the repository
+* Click on the index.md
+* Click on the little edit icon (pencil) in the top right
+* Make your changes and commit them with a little change log message
+
+If you are lost but want to change something:
+Send an email to pw351 @ cam (typical Cambridge university email)
 
 ### Markdown
 The current overview is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), the standard markup language for GitHub. This document may later be converted into an HTML document.
 
 ### Maintainers
 
-### Responsible editor
+#### Responsible editor
 The overview is maintained by Pascal Wichmann (pw351) with contributions from many others.
 
 #### Contributors
