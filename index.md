@@ -53,7 +53,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
 * [Churchill Enterprise Competition](https://www.chu.cam.ac.uk/student-hub/churchill-enterprise/enterprise-competition/)
   * Restricted to Churchill college members
 * [King's College Entrepreneurship Prize](http://www.kings.cam.ac.uk/entrepreneurship-prize-2018)
-  * Annual prize; team leader must be a King's member
+  * Annual prize; team leader must be a King's member; £20,000 top prize
 
 ### Misc.
 
