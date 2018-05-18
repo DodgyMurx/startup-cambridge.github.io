@@ -11,24 +11,35 @@ You can get the Discord app for free from: https://discordapp.com/
 * Cambridge University Entrepreneurs (CUE)
   * https://www.cue.org.uk/
 
+## Regular startup competitions
+
+* [Cambridge University Entrepreneurs (CUE) annual competitions]()
+  * £100 for 100 words
+  * £2k for a basic business plan / pitch
+  * £10k
+  * Young Entrepreneur of the Year track with Darrin Disley
+
 ## Local business angels, investors, VCs
 
 ## Local startup news
 
-## Cambridge unicorns
+## Local startups
+
+## Cambridge startup map
+http://www.camclustermap.com/
+
+### Cambridge unicorns
 Unicorns are companies that reached a 1 billion dollar valuation.
 So far, there have been 15 companies that achieved this milestone:
 
 1. ...
 1. [Darktrace](https://www.darktrace.com/) - The world leader in Enterprise Immune System technology for cyber security.
 
-## Cambridge next unicorn candidates
+### Cambridge next unicorn candidates
 
-## Large Cambridge startups
+### Large Cambridge startups
 
 * [Geospock](https://geospock.com/)
-
-## Regular startup competitions
 
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
