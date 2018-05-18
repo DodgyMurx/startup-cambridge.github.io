@@ -27,7 +27,7 @@ Join the discord server to:
 
 The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.uk/) provides an overview of all entrepreneurial activities at Cambridge University.
 
-### Student societies
+### Entrepreneurial student societies
 
 * [Cambridge University Entrepreneurs (CUE)](https://www.cue.org.uk/)
   * Largest entrepreneur society at Cambridge University
@@ -36,6 +36,12 @@ The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.u
 * [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
   * Younger society, founded in October 2016
+
+### Tech-related student societies
+These societies are not directly entrepreneurial but focus on specific technologies or tech areas. They may be helpful if you want to connect to people with expertise in these technological domains.
+
+* [Hackers at Cambridge](https://hackersatcambridge.com/)
+* [Virtual Reality (VR / AR / MR) society (closed Facebook group)](https://www.facebook.com/groups/914339718718750/)
 
 ### Other student initiatives
 * [Innovation Forum](http://cambridge.inno-forum.org/)
