@@ -98,7 +98,11 @@ These offers may be discounts, deferred payments, or variable payments linked to
 * [EIS scheme (UK gov)](https://www.gov.uk/guidance/venture-capital-schemes-apply-for-the-enterprise-investment-scheme)
 
 ## You want to add / change something?
-Please send a pull request with your changes.
+If you are tech-savvy:
+* Just clone the [repository](https://github.com/startup-cambridge/startup-cambridge.github.io) 
+* Make your changes in the spirit of this document
+* Then send a pull request
+Otherwise, send an email to pw351 @ cam
 
 ## License
 The license for this content is https://creativecommons.org/licenses/by/3.0/.
