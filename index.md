@@ -70,6 +70,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
 
 ### Business angel groups
 * [Cambridge Angels (60+ individual investors)](https://cambridgeangels.com/)
+  * Chaired since 2016 by Peter Cowley 
 * [Cambridge Capital Group](http://www.cambridgecapitalgroup.co.uk/)
   * Business angel network comprised of private investors, family offices, and 
 venture funds
