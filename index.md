@@ -249,7 +249,7 @@ The current overview is written in [Markdown](https://github.com/adam-p/markdown
 The overview is maintained by Pascal Wichmann (pw351) with contributions from many others.
 
 #### Contributors
-Marc F. (if you want to write your full name)
+Marc Felske
 
 ## License
 * The license for this content is a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
