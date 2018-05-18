@@ -75,6 +75,18 @@ Competitions organisaed by colleges often require one team member to be member o
 * [Innovation Forum](http://cambridge.inno-forum.org/)
   * The Innovation Forum is a student-led initiative that seeks to build bridges between academia, industry and policy makers.
 
+## Domain experts, mentors and experts who are open to discuss problems with you
+
+### Machine Learning
+
+### Computer Science (programming and IT architecture)
+
+### Biotech
+
+### Mathematics
+
+### Legal
+
 ## Local business angels, investors, VCs
 
 ### Business angel groups
