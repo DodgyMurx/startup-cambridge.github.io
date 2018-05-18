@@ -40,6 +40,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
   * £2k for a basic business plan / pitch
   * £10k
   * Young Entrepreneur of the Year track with Darrin Disley
+* [Entrepreneurial Postdocs of Cambridge (EPOC) Business Plan Competition](https://www.epoc.group.cam.ac.uk/business-plan-competition)
 
 ## Local business angels, investors, VCs
 
