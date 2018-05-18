@@ -68,6 +68,9 @@ You can get the Discord app for free [here](https://discordapp.com/)
 
 ### Business angel groups
 * [Cambridge Angels (60+ individual investors)](https://cambridgeangels.com/)
+* [Cambridge Capital Group](http://www.cambridgecapitalgroup.co.uk/)
+  * Business angel network comprised of private investors, family offices, and 
+venture funds
 
 ### Individual business angels
 
@@ -79,6 +82,9 @@ You can get the Discord app for free [here](https://discordapp.com/)
 ### VCs
 * [Cambridge Innovation Capital](https://www.cicplc.co.uk/)
   * £50m venture capital fund
+* [ET Capital](http://www.etcapital.com/)
+  * Managing director of ET Capital Limited: Martin Rigby
+* [Cambridge Venture Partners Ltd.](http://cambridge.ventures/)
 
 ## Local startup news
 
