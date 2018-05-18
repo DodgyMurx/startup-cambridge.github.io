@@ -245,6 +245,19 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 * [EIS scheme (UK gov)](https://www.gov.uk/guidance/venture-capital-schemes-apply-for-the-enterprise-investment-scheme)
 
+### EU law
+
+#### Data privacy
+
+* Cookie rules
+* Data privacy
+* Newsletter opt-in
+
+#### VAT rules
+
+* Verification of country using a 2 out of 3 rule
+* MOSS VAT
+
 ## Misc.
 
 * [UK Business Angel association](https://www.ukbaa.org.uk/)
