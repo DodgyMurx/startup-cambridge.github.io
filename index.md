@@ -25,6 +25,11 @@ You can get the Discord app for free [here](https://discordapp.com/)
 * [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
   * Younger society, founded in October 2016
+  
+### College societies
+
+* [Hughes Hall Enterprise Society](https://www.hugheshallenterprise.org/)
+  * Open to Hughes Hall students but also the wider Cambridge community
 
 ### University institutions
 
@@ -33,7 +38,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
 * [St. Johns Innovation Centre](https://stjohns.co.uk/)
 * [Cambridge Science Park (established by Trinity College)](https://www.cambridgesciencepark.co.uk/)
 
-### Regular startup competitions
+### Regular startup competitions / awards
 
 * [Cambridge University Entrepreneurs (CUE) annual competitions](https://www.cue.org.uk/)
   * £100 for 100 words
@@ -41,6 +46,13 @@ You can get the Discord app for free [here](https://discordapp.com/)
   * £10k
   * Young Entrepreneur of the Year track with Darrin Disley
 * [Entrepreneurial Postdocs of Cambridge (EPOC) Business Plan Competition](https://www.epoc.group.cam.ac.uk/business-plan-competition)
+* [Hughes Hall Enterprise Award](https://www.hugheshallenterprise.org/the-hughes-hall-enterprise-award.html)
+  * One team member must be affiliated with Hughes Hall
+
+### Misc.
+
+* [Innovation Forum](http://cambridge.inno-forum.org/)
+  * The Innovation Forum is a student-led initiative that seeks to build bridges between academia, industry and policy makers.
 
 ## Local business angels, investors, VCs
 
