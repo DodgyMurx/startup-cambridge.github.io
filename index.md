@@ -45,8 +45,9 @@ http://www.camclustermap.com/
 Unicorns are companies that reached a 1 billion dollar valuation.
 So far, there have been 15 companies that achieved this milestone:
 
-* ...
-* [Darktrace](https://www.darktrace.com/) - The world leader in Enterprise Immune System technology for cyber security.
+* [ARM](https://www.arm.com/)
+* [Darktrace](https://www.darktrace.com/)
+  * "The world leader in Enterprise Immune System technology for cyber security."
 * [Improbable](https://improbable.io/)
   * Founded by Cambridge alumni Herman Narula (Girton 2007) and Rob Whitehead (Robinson 2009)
   * [Wired article from May 2017](http://www.wired.co.uk/article/improbable-quest-to-build-the-matrix)
