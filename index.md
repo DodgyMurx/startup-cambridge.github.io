@@ -54,6 +54,9 @@ These societies are not directly entrepreneurial but focus on specific technolog
 #### Others
 * [i-Teams](https://iteamsonline.org/about-i-teams/)
   * i-Teams runs projects in Cambridge during each Cambridge University term.
+* [BiomakeSpace](https://biomake.space/home)
+  * Non-profit organisation
+  * Open access laboratory on the Cambridge Biomedical Campus
   
 ### College societies
 
