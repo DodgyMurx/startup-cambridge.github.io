@@ -21,13 +21,16 @@ Join the discord server to:
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Startup Cambridge](#startup-cambridge)
+	- [Discord server](#discord-server)
+- [Table of contents](#table-of-contents)
 - [Useful local links and advice](#useful-local-links-and-advice)
 	- [University environment / startup ecosystem](#university-environment-startup-ecosystem)
 		- [Entrepreneurial student societies](#entrepreneurial-student-societies)
 		- [Tech-related student societies](#tech-related-student-societies)
 		- [Other student initiatives](#other-student-initiatives)
 			- [Others](#others)
-		- [College societies](#college-societies)
+		- [College entrepreneur societies](#college-entrepreneur-societies)
 		- [University institutions](#university-institutions)
 		- [Regular startup competitions / awards](#regular-startup-competitions-awards)
 		- [Accelerator programmes & similar](#accelerator-programmes-similar)
@@ -42,6 +45,7 @@ Join the discord server to:
 		- [Business angel groups](#business-angel-groups)
 		- [Individual business angels / investors](#individual-business-angels-investors)
 		- [VCs / Investing organisations](#vcs-investing-organisations)
+	- [Local Hackathons](#local-hackathons)
 	- [Local startup / entrepreneurship events](#local-startup-entrepreneurship-events)
 	- [Local startup news](#local-startup-news)
 	- [Local startups](#local-startups)
@@ -253,6 +257,10 @@ venture funds
 * Accelerate Cambridge
 * Cantab Capital Partners
 * FUSION Biomed
+
+## Local Hackathons
+
+* [HackCambridge](https://hackcambridge.com/)
 
 ## Local startup / entrepreneurship events
 
