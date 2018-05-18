@@ -20,6 +20,7 @@ You can get the Discord app for free from: https://discordapp.com/
 ### University institutions
 
 * [Cambridge Enterprise](https://www.enterprise.cam.ac.uk/)
+* [St. Johns Innovation Centre](https://stjohns.co.uk/)
 
 ### Regular startup competitions
 
@@ -71,6 +72,11 @@ So far, there have been 15 companies that achieved this milestone:
   * Founded by three Cambridge graduates
   * Founded in 2008
   * Acquired by Microsoft for a reported $250m in 2016.
+
+## Local incubators
+
+* [Eagle Labs (by Barclays)](https://labs.uk.barclays/locations/cambridge-incubator)
+* ...
 
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
