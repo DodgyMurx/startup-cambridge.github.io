@@ -23,6 +23,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
   * Largest entrepreneur society at Cambridge University
 * [Cambridge University Technology and Enterprise Club (CUTEC)](http://www.cutec.org/)
   * Annual VC conference
+* [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
   * Younger society, founded in October 2016
 
