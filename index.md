@@ -31,6 +31,9 @@ You can get the Discord app for free from: https://discordapp.com/
 
 ## Local business angels, investors, VCs
 
+* [Cambridge Innovation Capital](https://www.cicplc.co.uk/)
+  * £50m venture capital fund
+
 ## Local startup news
 
 ## Local startups
