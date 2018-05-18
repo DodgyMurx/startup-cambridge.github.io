@@ -75,12 +75,14 @@ You can get the Discord app for free [here](https://discordapp.com/)
   * Business angel network comprised of private investors, family offices, and 
 venture funds
 
-### Individual business angels
+### Individual business angels / investors
 
 * [Peter Cowley](https://www.petercowley.org/)
   * [LinkedIn profile](https://www.linkedin.com/in/plcowley/)
   * [Investment criteria](https://www.petercowley.org/investment-criteria/)
 * [Darrin Disley](https://geospock.com/team/darrin-disley-phd/)
+* [Jonathan Hay](https://www.linkedin.com/in/jonathan-hay-2046046/)
+  * Cambridge-based Partner at Delin Capital, London
 
 ### VCs
 * [Cambridge Innovation Capital](https://www.cicplc.co.uk/)
