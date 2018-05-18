@@ -371,19 +371,21 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 
 ## You want to add / change something?
-If you are tech-savvy:
+
+### If you are tech-savvy:
 * Just clone the [repository](https://github.com/startup-cambridge/startup-cambridge.github.io)
 * Make your changes in the spirit of this document
 * Then send a pull request
 
-If you are medium tech-savvy:
+### If you are medium tech-savvy:
 * Click [here](https://github.com/startup-cambridge/startup-cambridge.github.io) to get to the repository
 * Click on the index.md
 * Click on the little edit icon (pencil) in the top right
 * Make your changes and commit them with a little change log message
 
-If you are lost but want to change something:
-Send an email to pw351 @ cam (typical Cambridge university email)
+### If you are lost but want to change or suggest something:
+* Send an email to pw351 @ cam (typical Cambridge university email), or - even better
+* File an issue by clicking on [this link](https://github.com/startup-cambridge/startup-cambridge.github.io/issues/new)
 
 ### Markdown
 The current overview is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), the standard markup language for GitHub. This document may later be converted into an HTML document.
