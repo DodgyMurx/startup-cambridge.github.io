@@ -102,6 +102,7 @@ If you are tech-savvy:
 * Just clone the [repository](https://github.com/startup-cambridge/startup-cambridge.github.io) 
 * Make your changes in the spirit of this document
 * Then send a pull request
+
 Otherwise, send an email to pw351 @ cam
 
 ## License
