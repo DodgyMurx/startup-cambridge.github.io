@@ -114,6 +114,7 @@ So far, there have been 15 companies that achieved this milestone:
 
 * [Eagle Labs (by Barclays)](https://labs.uk.barclays/locations/cambridge-incubator)
 * [ideaSpace](https://www.ideaspace.cam.ac.uk/About)
+  * Co-working space in 3 offices in Cambridge (part-time fee: £80 excl. VAT; full-time fee: £250 excl. VAT)
 * ...
 
 ## Local companies with special offers for local startups
