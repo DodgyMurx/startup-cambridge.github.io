@@ -54,6 +54,8 @@ You can get the Discord app for free [here](https://discordapp.com/)
   * Annual competition exclusively for undergraduate and postgraduate students at Anglia Ruskin University
 
 #### Organised by colleges
+Competitions organisaed by colleges often require one team member to be member of the college.
+
 * [Hughes Hall Enterprise Award](https://www.hugheshallenterprise.org/the-hughes-hall-enterprise-award.html)
   * One team member must be affiliated with Hughes Hall
 * [Churchill Enterprise Competition](https://www.chu.cam.ac.uk/student-hub/churchill-enterprise/enterprise-competition/)
