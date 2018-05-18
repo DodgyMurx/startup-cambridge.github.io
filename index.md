@@ -23,7 +23,7 @@ Join the discord server to:
 
 # Useful local links and advice 
 
-## University environment
+## University environment / startup ecosystem
 
 The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.uk/) provides an overview of all entrepreneurial activities at Cambridge University.
 
