@@ -38,7 +38,7 @@ You can get the Discord app for free from: https://discordapp.com/
 
 ## Local startups
 
-## Cambridge startup map
+### Cambridge startup map
 http://www.camclustermap.com/
 
 ### Cambridge unicorns
@@ -57,6 +57,12 @@ So far, there have been 15 companies that achieved this milestone:
 * [Geospock](https://geospock.com/)
 
 ### Other Cambridge startups
+
+* ...
+
+### Freshly hatched startups
+
+* ...
 
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
