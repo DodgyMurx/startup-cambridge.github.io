@@ -401,12 +401,13 @@ These offers may be discounts, deferred payments, or variable payments linked to
 #### Competitions
 * ...
 
-## Checklist
+## Checklist
 
 ### Thinking of a name
 
 #### Finding a domain name
 * [NameMesh](https://www.namemesh.com/)
+* [Panabee](http://www.panabee.com/)
 
 ### Checking existing trademarks
 * Do not ignore this step and do not start trading or spending money before you have checked your name against trademark registers.
