@@ -280,6 +280,7 @@ These offers may be discounts, deferred payments, or variable payments linked to
 * [Entrepreneur First (EF)](https://www.joinef.com/)
   * London-based company builder and startup accelerator
   * You can join them without having an idea yet
+  * EF helps you to find a co-founder, develop an idea, and find investors
 
 ### UK-wide
 * http://startupbritain.org/
