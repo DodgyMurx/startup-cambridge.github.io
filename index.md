@@ -4,7 +4,7 @@ A local community to help building new businesses in Cambridge / UK.
 This overview is available under the domain [startup-cambridge.com](http://startup-cambridge.com).
 
 ## Discord server
-Free, open [discord server](https://discord.gg/hspfpFp) to discuss ideas, problems, tech with fellow local entrepreneurs: 
+Free, open [discord server](https://discord.gg/hspfpFp) to discuss ideas, problems, tech with fellow local entrepreneurs:
 
 [Link to discord server](https://discord.gg/hspfpFp)
 
@@ -18,10 +18,67 @@ Join the discord server to:
 * ...
 
 # Table of contents
-1. [University environment](#University-environment)
-2. ...
 
-# Useful local links and advice 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Startup Cambridge](#startup-cambridge)
+	- [Discord server](#discord-server)
+- [Table of contents](#table-of-contents)
+- [Useful local links and advice](#useful-local-links-and-advice)
+	- [University environment / startup ecosystem](#university-environment-startup-ecosystem)
+		- [Entrepreneurial student societies](#entrepreneurial-student-societies)
+		- [Tech-related student societies](#tech-related-student-societies)
+		- [Other student initiatives](#other-student-initiatives)
+			- [Others](#others)
+		- [College societies](#college-societies)
+		- [University institutions](#university-institutions)
+		- [Regular startup competitions / awards](#regular-startup-competitions-awards)
+		- [Accelerator programmes & similar](#accelerator-programmes-similar)
+			- [Organised by colleges](#organised-by-colleges)
+	- [Local domain experts who are open to discuss problems with you](#local-domain-experts-who-are-open-to-discuss-problems-with-you)
+		- [Machine Learning](#machine-learning)
+		- [Computer Science (programming and IT architecture)](#computer-science-programming-and-it-architecture)
+		- [Biotech](#biotech)
+		- [Mathematics](#mathematics)
+		- [Legal](#legal)
+	- [Local business angels, investors, VCs](#local-business-angels-investors-vcs)
+		- [Business angel groups](#business-angel-groups)
+		- [Individual business angels / investors](#individual-business-angels-investors)
+		- [VCs / Investing organisations](#vcs-investing-organisations)
+	- [Local startup / entrepreneurship events](#local-startup-entrepreneurship-events)
+	- [Local startup news](#local-startup-news)
+	- [Local startups](#local-startups)
+		- [Cambridge startup map](#cambridge-startup-map)
+		- [Cambridge unicorns](#cambridge-unicorns)
+		- [Cambridge next unicorn candidates & rising stars & famous startups](#cambridge-next-unicorn-candidates-rising-stars-famous-startups)
+		- [Current Cambridge startups](#current-cambridge-startups)
+		- [Sold startups](#sold-startups)
+		- [Deadpool (name and short description)](#deadpool-name-and-short-description)
+	- [Local incubators](#local-incubators)
+	- [Local companies with special offers for local startups](#local-companies-with-special-offers-for-local-startups)
+	- [Workspaces](#workspaces)
+	- [Finding co-founders or additional team members](#finding-co-founders-or-additional-team-members)
+	- [Entrepreneur events](#entrepreneur-events)
+	- [Important advice](#important-advice)
+		- [SEIS and EIS scheme](#seis-and-eis-scheme)
+		- [EU law](#eu-law)
+			- [Data privacy](#data-privacy)
+			- [VAT rules](#vat-rules)
+	- [Misc.](#misc)
+	- [Non-local links](#non-local-links)
+		- [London](#london)
+		- [UK-wide](#uk-wide)
+			- [Competitions](#competitions)
+	- [You want to add / change something?](#you-want-to-add-change-something)
+		- [Markdown](#markdown)
+		- [Maintainers](#maintainers)
+			- [Responsible editor](#responsible-editor)
+			- [Contributors](#contributors)
+	- [License](#license)
+
+<!-- /TOC -->
+
+# Useful local links and advice
 
 ## University environment / startup ecosystem
 
@@ -60,7 +117,7 @@ These societies are not directly entrepreneurial but focus on specific technolog
 * [BiomakeSpace](https://biomake.space/home)
   * Non-profit organisation
   * Open access laboratory on the Cambridge Biomedical Campus
-  
+
 ### College societies
 
 * [Hughes Hall Enterprise Society](https://www.hugheshallenterprise.org/)
@@ -115,9 +172,9 @@ Competitions organisaed by colleges often require one team member to be member o
 
 ### Business angel groups
 * [Cambridge Angels (60+ individual investors)](https://cambridgeangels.com/)
-  * Chaired since 2016 by Peter Cowley 
+  * Chaired since 2016 by Peter Cowley
 * [Cambridge Capital Group](http://www.cambridgecapitalgroup.co.uk/)
-  * Business angel network comprised of private investors, family offices, and 
+  * Business angel network comprised of private investors, family offices, and
 venture funds
 
 ### Individual business angels / investors
@@ -235,7 +292,7 @@ So far, there have been 15 companies that achieved this milestone:
   * Founded by three Cambridge graduates
   * Founded in 2008
   * Acquired by Microsoft for a reported $250m in 2016.
-  
+
 ### Deadpool (name and short description)
 
 * ...
@@ -298,12 +355,12 @@ These offers may be discounts, deferred payments, or variable payments linked to
 * http://startupbritain.org/
 
 #### Competitions
-* 
+*
 
 
 ## You want to add / change something?
 If you are tech-savvy:
-* Just clone the [repository](https://github.com/startup-cambridge/startup-cambridge.github.io) 
+* Just clone the [repository](https://github.com/startup-cambridge/startup-cambridge.github.io)
 * Make your changes in the spirit of this document
 * Then send a pull request
 
