@@ -25,7 +25,7 @@ Join the discord server to:
 
 The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.uk/) provides an overview of all entrepreneurial activities at Cambridge University.
 
-### University societies
+### Student societies
 
 * [Cambridge University Entrepreneurs (CUE)](https://www.cue.org.uk/)
   * Largest entrepreneur society at Cambridge University
@@ -34,6 +34,8 @@ The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.u
 * [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
   * Younger society, founded in October 2016
+* [Innovation Forum](http://cambridge.inno-forum.org/)
+  * The Innovation Forum is a student-led initiative that seeks to build bridges between academia, industry and policy makers.
 
 #### Others
 * [i-Teams](https://iteamsonline.org/about-i-teams/)
@@ -71,11 +73,6 @@ Competitions organisaed by colleges often require one team member to be member o
   * Restricted to Churchill college members
 * [King's College Entrepreneurship Prize](http://www.kings.cam.ac.uk/entrepreneurship-prize-2018)
   * Annual prize; team leader must be a King's member; £20,000 top prize
-
-### Misc.
-
-* [Innovation Forum](http://cambridge.inno-forum.org/)
-  * The Innovation Forum is a student-led initiative that seeks to build bridges between academia, industry and policy makers.
 
 ## Local domain experts who are open to discuss problems with you
 
@@ -170,6 +167,10 @@ venture funds
 * Accelerate Cambridge
 * Cantab Capital Partners
 * FUSION Biomed
+
+## Local startup / entrepreneurship events
+
+* [Enterprise Calendar](https://www.enterprisenetwork.group.cam.ac.uk/enterprise-calendar)
 
 ## Local startup news
 
