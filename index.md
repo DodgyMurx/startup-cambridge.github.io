@@ -43,6 +43,8 @@ These societies are not directly entrepreneurial but focus on specific technolog
 
 * [Hackers at Cambridge](https://hackersatcambridge.com/)
 * [Virtual Reality (VR / AR / MR) society (closed Facebook group)](https://www.facebook.com/groups/914339718718750/)
+* [Student-Run Computing Facility (SRCF)](https://www.srcf.net/)
+  * Cambridge-based society to provide useful and flexible computing and network services to students and staff
 
 ### Other student initiatives
 * [Innovation Forum](http://cambridge.inno-forum.org/)
