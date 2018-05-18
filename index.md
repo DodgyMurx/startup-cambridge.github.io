@@ -21,6 +21,7 @@ You can get the Discord app for free from: https://discordapp.com/
 
 * [Cambridge Enterprise](https://www.enterprise.cam.ac.uk/)
 * [St. Johns Innovation Centre](https://stjohns.co.uk/)
+* [Cambridge Science Park (established by Trinity College)](https://www.cambridgesciencepark.co.uk/)
 
 ### Regular startup competitions
 
