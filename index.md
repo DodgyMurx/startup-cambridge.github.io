@@ -50,6 +50,8 @@ You can get the Discord app for free [here](https://discordapp.com/)
 ### Individual business angels
 
 * [Peter Cowley](https://www.petercowley.org/)
+  * [LinkedIn profile](https://www.linkedin.com/in/plcowley/)
+  * [Investment criteria](https://www.petercowley.org/investment-criteria/)
 * [Darrin Disley](https://geospock.com/team/darrin-disley-phd/)
 
 ### VCs
