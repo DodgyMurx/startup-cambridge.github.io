@@ -25,6 +25,8 @@ You can get the Discord app for free [here](https://discordapp.com/)
 * [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
   * Younger society, founded in October 2016
+
+#### Others
 * [i-Teams](https://iteamsonline.org/about-i-teams/)
   * i-Teams runs projects in Cambridge during each Cambridge University term.
   
