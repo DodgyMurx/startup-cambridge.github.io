@@ -75,6 +75,10 @@ So far, there have been 15 companies that achieved this milestone:
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
 
+## Important advice
+
+### SEIS and EIS scheme
+
 
 ## License
 The license for this content is https://creativecommons.org/licenses/by/3.0/.
