@@ -46,4 +46,5 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 
 ## License
-The license for this content is https://creativecommons.org/licenses/by/3.0/
+The license for this content is https://creativecommons.org/licenses/by/3.0/.
+Please use attribution with link to this page (startup-cambridge.github.io).
