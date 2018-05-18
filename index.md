@@ -115,10 +115,13 @@ These societies are not directly entrepreneurial but focus on specific technolog
   * Non-profit organisation
   * Open access laboratory on the Cambridge Biomedical Campus
 
-### College societies
+### College entrepreneur societies
 
 * [Hughes Hall Enterprise Society](https://www.hugheshallenterprise.org/)
   * Open to Hughes Hall students but also the wider Cambridge community
+* [Fitz Enterprise](http://fitzenterprise.soc.srcf.net/about.html)
+  * Fitzwilliam's entrepreneur society
+	* [Events](http://fitzenterprise.soc.srcf.net/events.html)
 
 ### University institutions
 
@@ -156,9 +159,6 @@ Competitions organisaed by colleges often require one team member to be member o
   * Annual business plan competition for all students of Downing College
   * Prizes of up to £2000 for one-page business descriptions
   * [Report from past competition](http://www.dow.cam.ac.uk/news/downing-enterprise-first-round-impresses-judges)
-* [Fitz Enterprise](http://fitzenterprise.soc.srcf.net/about.html)
-  * Fitzwilliam's entrepreneur society
-	* [Events](http://fitzenterprise.soc.srcf.net/events.html)
 
 ## Local domain experts who are open to discuss problems with you
 
