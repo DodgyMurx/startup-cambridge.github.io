@@ -44,6 +44,15 @@ You can get the Discord app for free [here](https://discordapp.com/)
 
 ## Local business angels, investors, VCs
 
+### Business angel groups
+* [Cambridge Angels (60+ individual investors)](https://cambridgeangels.com/)
+
+### Individual business angels
+
+* [Peter Cowley](https://www.petercowley.org/)
+* [Darrin Disley](https://geospock.com/team/darrin-disley-phd/)
+
+### VCs
 * [Cambridge Innovation Capital](https://www.cicplc.co.uk/)
   * £50m venture capital fund
 
