@@ -46,6 +46,8 @@ You can get the Discord app for free [here](https://discordapp.com/)
   * £10k
   * Young Entrepreneur of the Year track with Darrin Disley
 * [Entrepreneurial Postdocs of Cambridge (EPOC) Business Plan Competition](https://www.epoc.group.cam.ac.uk/business-plan-competition)
+* [Anglia Ruskin University competition "The Big Pitch"](http://thebigpitch.co.uk/)
+  * Annual competition exclusively for undergraduate and postgraduate students at Anglia Ruskin University
 
 #### Organised by colleges
 * [Hughes Hall Enterprise Award](https://www.hugheshallenterprise.org/the-hughes-hall-enterprise-award.html)
