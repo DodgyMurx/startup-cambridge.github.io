@@ -81,7 +81,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
 ## Local startups
 
 ### Cambridge startup map
-http://www.camclustermap.com/
+[Cambridge Cluster Map](http://www.camclustermap.com/)
 
 ### Cambridge unicorns
 Unicorns are companies that reached a 1 billion dollar valuation.
