@@ -237,6 +237,8 @@ Otherwise, send an email to pw351 @ cam
 The current overview is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), the standard markup language for GitHub. This document may later be converted into an HTML document.
 
 ### Maintainers
+
+### Responsible editor
 The overview is maintained by Pascal Wichmann (pw351) with contributions from many others.
 
 #### Contributors
