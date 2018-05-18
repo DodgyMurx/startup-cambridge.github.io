@@ -22,12 +22,16 @@ So far, there have been 15 companies that achieved this milestone:
 1. ...
 1. [Darktrace](https://www.darktrace.com/) - The world leader in Enterprise Immune System technology for cyber security.
 
-
 ## Cambridge next unicorn candidates
+
+## Large Cambridge startups
+
+* [Geospock](https://geospock.com/)
 
 ## Regular startup competitions
 
-## Local companies with special offers for local startups (e.g. deferred payments, variable payments)
+## Local companies with special offers for local startups
+These offers may be discounts, deferred payments, or variable payments linked to your success.
 
 
 ## License
