@@ -46,8 +46,12 @@ You can get the Discord app for free [here](https://discordapp.com/)
   * £10k
   * Young Entrepreneur of the Year track with Darrin Disley
 * [Entrepreneurial Postdocs of Cambridge (EPOC) Business Plan Competition](https://www.epoc.group.cam.ac.uk/business-plan-competition)
+
+#### Organised by colleges
 * [Hughes Hall Enterprise Award](https://www.hugheshallenterprise.org/the-hughes-hall-enterprise-award.html)
   * One team member must be affiliated with Hughes Hall
+* [Churchill Enterprise Competition](https://www.chu.cam.ac.uk/student-hub/churchill-enterprise/enterprise-competition/)
+  * Restricted to Churchill college members
 
 ### Misc.
 
@@ -135,6 +139,15 @@ These offers may be discounts, deferred payments, or variable payments linked to
 ## Misc.
 
 * [UK Business Angel association](https://www.ukbaa.org.uk/)
+
+## Non-local links
+
+### UK-wide
+* http://startupbritain.org/
+
+#### Competitions
+* 
+
 
 ## You want to add / change something?
 If you are tech-savvy:
