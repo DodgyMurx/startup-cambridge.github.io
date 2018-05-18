@@ -82,9 +82,11 @@ So far, there have been 15 companies that achieved this milestone:
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
 
-## Important advice
+## Important advice
 
 ### SEIS and EIS scheme
+
+* [EIS scheme (UK gov)](https://www.gov.uk/guidance/venture-capital-schemes-apply-for-the-enterprise-investment-scheme)
 
 
 ## License
