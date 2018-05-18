@@ -423,3 +423,4 @@ The overview is maintained by Pascal Wichmann (pw351) and Marc Felske with contr
 ## License
 * The license for this content is a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 * Please use attribution with link to this page (startup-cambridge.github.io).
+* Header image is not part of the CC license but (c) Pascal Wichmann
