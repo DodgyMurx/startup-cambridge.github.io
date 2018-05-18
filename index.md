@@ -233,6 +233,9 @@ If you are tech-savvy:
 
 Otherwise, send an email to pw351 @ cam
 
+### Markdown
+The current overview is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), the standard markup language for GitHub. This document may later be converted into an HTML document.
+
 ## License
 * The license for this content is a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 * Please use attribution with link to this page (startup-cambridge.github.io).
