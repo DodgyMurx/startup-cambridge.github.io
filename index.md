@@ -325,9 +325,23 @@ So far, there have been 15 companies that achieved this milestone:
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
 
-## Workspaces
+## Workspaces / Co-working spaces
 
-* ...
+* [CambridgeSpace](http://www.cambridgespace.co/)
+  * Based at Cambridge University Rugby Club on Grange road
+  * Hub for collaborative co-working
+* [Cambridge Business Lounge](http://www.cambridgebusinesslounge.com/)
+* [Eagle Labs Incubator by Barclays](https://labs.uk.barclays/locations/cambridge-incubator)
+* [The Bradfield Centre](https://www.bradfieldcentre.com/)
+* [Future Business Centre](www.futurebusinesscentre.co.uk)
+* [ideaSpace](www.ideaspace.cam.ac.uk)
+* [Cambridge Deskspace](www.cambridgedeskspace.com)
+
+### Out of the ordinary
+
+* [CamJelly](https://www.meetup.com/de-DE/camjelly/)
+  * Co-working Meetups
+  * Cambridge's CoWorking Community
 
 ## Finding co-founders or additional team members
 * Check out our [Discord server](https://discord.gg/hspfpFp)
