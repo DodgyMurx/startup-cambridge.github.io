@@ -29,6 +29,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
 ### University institutions
 
 * [Cambridge Enterprise](https://www.enterprise.cam.ac.uk/)
+  * Wholly owned subsidiary of the University of Cambridge aimed at the commercialisation of IP
 * [St. Johns Innovation Centre](https://stjohns.co.uk/)
 * [Cambridge Science Park (established by Trinity College)](https://www.cambridgesciencepark.co.uk/)
 
