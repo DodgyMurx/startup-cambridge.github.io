@@ -12,7 +12,7 @@ You can get the Discord app for free [here](https://discordapp.com/)
 1. [University environment](#University-environment)
 2. ...
 
-# Useful links and advice 
+# Useful local links and advice 
 
 ## University environment
 
@@ -113,6 +113,7 @@ So far, there have been 15 companies that achieved this milestone:
 ## Local incubators
 
 * [Eagle Labs (by Barclays)](https://labs.uk.barclays/locations/cambridge-incubator)
+* [ideaSpace](https://www.ideaspace.cam.ac.uk/About)
 * ...
 
 ## Local companies with special offers for local startups
