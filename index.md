@@ -2,9 +2,9 @@
 A local community to help building new businesses in Cambridge / UK
 
 ## Discord server
-Free, open discord server to discuss ideas, problems, tech with fellow local entrepreneurs: https://discord.gg/hspfpFp
+Free, open [discord server](https://discord.gg/hspfpFp) to discuss ideas, problems, tech with fellow local entrepreneurs: [Link to discord server](https://discord.gg/hspfpFp)
 
-You can get the Discord app for free from: https://discordapp.com/
+You can get the Discord app for free [here](https://discordapp.com/)
 
 ## University environment
 
