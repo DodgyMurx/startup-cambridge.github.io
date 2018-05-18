@@ -8,6 +8,13 @@ Free, open [discord server](https://discord.gg/hspfpFp) to discuss ideas, proble
 
 You can get the Discord app for free [here](https://discordapp.com/)
 
+Join the discord server to:
+* find team members
+* discuss tech problems like designing the right architecture for your problem
+* meet up in Cambridge to discuss specific topics
+* ask for experience with specific investors, etc.
+* ...
+
 # Table of contents
 1. [University environment](#University-environment)
 2. ...
