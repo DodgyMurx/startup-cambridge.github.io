@@ -94,6 +94,9 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 * ...
 
+## Finding co-founders or additional team members
+* Check out our [Discord server](https://discord.gg/hspfpFp)
+
 ## Entrepreneur events
 
 * [EPOC events](https://www.epoc.group.cam.ac.uk/events)
