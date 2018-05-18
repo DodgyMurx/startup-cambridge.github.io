@@ -391,6 +391,19 @@ These offers may be discounts, deferred payments, or variable payments linked to
 #### Competitions
 * ...
 
+## Checklist
+
+### Thinking of a name
+
+#### Finding a domain name
+* [NameMesh](https://www.namemesh.com/)
+
+### Checking existing trademarks
+* Do not ignore this step and do not start trading or spending money before you have checked your name against trademark registers.
+* You can do the checks yourself for free:
+  * [International trademark register](http://www.wipo.int/branddb/en/)
+  * [European trademark register](https://euipo.europa.eu/eSearch/#basic)
+* Even just similar names can be problematic if customers can confuse brands.
 
 ## You want to add / change something?
 
