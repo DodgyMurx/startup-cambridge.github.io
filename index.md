@@ -51,11 +51,12 @@ So far, there have been 15 companies that achieved this milestone:
   * Founded by Cambridge alumni Herman Narula (Girton 2007) and Rob Whitehead (Robinson 2009)
   * [Wired article from May 2017](http://www.wired.co.uk/article/improbable-quest-to-build-the-matrix)
 
-### Cambridge next unicorn candidates
+### Cambridge next unicorn candidates & rising stars
 
-### Large Cambridge startups
-
+* [Prowler.io](https://www.prowler.io/)
 * [Geospock](https://geospock.com/)
+
+### Other Cambridge startups
 
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
