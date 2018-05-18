@@ -23,6 +23,8 @@ Join the discord server to:
 
 ## University environment
 
+The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.uk/) provides an overview of all entrepreneurial activities at Cambridge University.
+
 ### University societies
 
 * [Cambridge University Entrepreneurs (CUE)](https://www.cue.org.uk/)
