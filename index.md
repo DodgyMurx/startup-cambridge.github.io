@@ -270,10 +270,10 @@ The current overview is written in [Markdown](https://github.com/adam-p/markdown
 ### Maintainers
 
 #### Responsible editor
-The overview is maintained by Pascal Wichmann (pw351) with contributions from many others.
+The overview is maintained by Pascal Wichmann (pw351) and Marc Felske with contributions from many others.
 
 #### Contributors
-Marc Felske
+* ...
 
 ## License
 * The license for this content is a [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
