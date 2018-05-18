@@ -1,5 +1,6 @@
 # Startup Cambridge
-A local community to help building new businesses in Cambridge / UK
+A local community to help building new businesses in Cambridge / UK.
+This overview is available under the domain [startup-cambridge.com](startup-cambridge.com).
 
 ## Discord server
 Free, open [discord server](https://discord.gg/hspfpFp) to discuss ideas, problems, tech with fellow local entrepreneurs: 
