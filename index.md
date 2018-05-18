@@ -34,6 +34,7 @@ The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.u
 * [Cambridge University Technology and Enterprise Club (CUTEC)](http://www.cutec.org/)
   * Annual VC conference
 * [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
+  * "The business face of the Cambridge research community"
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
   * Younger society, founded in October 2016
 
