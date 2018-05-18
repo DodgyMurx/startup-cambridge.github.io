@@ -120,6 +120,10 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 * [EIS scheme (UK gov)](https://www.gov.uk/guidance/venture-capital-schemes-apply-for-the-enterprise-investment-scheme)
 
+## Misc.
+
+* [UK Business Angel association](https://www.ukbaa.org.uk/)
+
 ## You want to add / change something?
 If you are tech-savvy:
 * Just clone the [repository](https://github.com/startup-cambridge/startup-cambridge.github.io) 
