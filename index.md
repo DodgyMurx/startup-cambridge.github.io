@@ -92,6 +92,9 @@ Join the discord server to:
 
 <!-- /TOC -->
 
+## Cambridge area
+The Cambridge ecosystem is also known as ["Silicon Fen"](https://en.wikipedia.org/wiki/Silicon_Fen). The area is now one of the most important technology centres in Europe.
+
 # Useful local links and advice
 
 ## University environment / startup ecosystem
@@ -240,8 +243,8 @@ venture funds
 * Daniel Cowell
 
 ### VCs / Investing organisations
-* [Cambridge Innovation Capital](https://www.cicplc.co.uk/)
-  * £50m venture capital fund
+* [Cambridge Innovation Capital (CIC)](https://www.cicplc.co.uk/)
+  * CIC has raised £125 million from investors to date
 * [ET Capital](http://www.etcapital.com/)
   * Managing director of ET Capital Limited: Martin Rigby
 * [Cambridge Venture Partners Ltd.](http://cambridge.ventures/)
