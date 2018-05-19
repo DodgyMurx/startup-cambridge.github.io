@@ -75,7 +75,6 @@ Join the discord server to:
 			- [Data privacy](#data-privacy)
 			- [VAT rules](#vat-rules)
 				- [MOSS VAT](#moss-vat)
-	- [Misc.](#misc)
 	- [Non-local links](#non-local-links)
 		- [London](#london)
 		- [UK-wide](#uk-wide)
@@ -410,10 +409,6 @@ If you sell product or services to customers, you generally have to collect VAT 
 To automate that process, MOSS has been developed, the [VAT Mini One Stop Shop (MOSS)](https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop).
 
 
-## Misc.
-
-* [UK Business Angel association](https://www.ukbaa.org.uk/)
-
 ## Non-local links
 
 ### London
@@ -424,7 +419,8 @@ To automate that process, MOSS has been developed, the [VAT Mini One Stop Shop (
   * EF helps you to find a co-founder, develop an idea, and find investors
 
 ### UK-wide
-* http://startupbritain.org/
+* [Startup Britain](http://startupbritain.org/)
+* [UK Business Angel association](https://www.ukbaa.org.uk/)
 
 #### Competitions
 * ...
@@ -444,7 +440,7 @@ To automate that process, MOSS has been developed, the [VAT Mini One Stop Shop (
   * [European trademark register](https://euipo.europa.eu/eSearch/#basic)
 * Even just similar names can be problematic if customers can confuse brands.
 
-## Misc.
+## Misc.
 
 ### Entrepreneurship podcasts
 
