@@ -376,9 +376,16 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 ## Important advice
 
+### Set up a contract between all founders / stakeholders
+
+* Do not arrange profit share agreements. This is a red flag for investors you might want to get on board in the future.
+* Arrange equity shares, ideally vetted (so that additional shares are only issued if stakeholders continue to contribute)
+
 ### SEIS and EIS scheme
 
 * [EIS scheme (UK gov)](https://www.gov.uk/guidance/venture-capital-schemes-apply-for-the-enterprise-investment-scheme)
+  * The EIS scheme makes investing in your startup very attractive to investors. It can change the whole equation.
+  * Furthermore, you can get tax benefits for your own R&D, such as an employed software developer.
 
 ### EU law
 
