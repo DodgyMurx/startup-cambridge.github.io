@@ -286,6 +286,11 @@ venture funds
 
 ## Local startup news
 
+## Cambridge development groups / initiatives
+
+* [Cambridge Ahead](http://www.cambridgeahead.co.uk/)
+  * "Cambridge Ahead is a business and academic member group dedicated to the successful growth of Cambridge and its region in the long term."
+
 ## Local startups
 
 ### Cambridge startup map
@@ -330,6 +335,9 @@ So far, there have been 15 companies that achieved this milestone:
 ## Local incubators
 
 * [Eagle Labs (by Barclays)](https://labs.uk.barclays/locations/cambridge-incubator)
+  * There are two locations in Cambridge
+    * [Cambridge Incubator (Chesterton Road, Cambridge, CB4 3AZ)](https://labs.uk.barclays/locations/cambridge-incubator)
+    * [Cambridge Maker Space w. laser cutters and 3D printers (7-8 Clifton Court, Cherry Hinton Rd, Cambridge, CB17BN)](https://labs.uk.barclays/locations/cambridge-cherry-hinton)
 * [ideaSpace](https://www.ideaspace.cam.ac.uk/About)
   * Co-working space in 3 offices in Cambridge (part-time fee: £80 excl. VAT; full-time fee: £250 excl. VAT)
 * ...
