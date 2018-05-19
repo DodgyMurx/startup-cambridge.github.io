@@ -298,6 +298,7 @@ venture funds
 
 * [Cambridge Ahead](http://www.cambridgeahead.co.uk/)
   * "Cambridge Ahead is a business and academic member group dedicated to the successful growth of Cambridge and its region in the long term."
+* [Cambridge Network](https://www.cambridgenetwork.co.uk/)
 
 ## Local startups
 
@@ -317,11 +318,15 @@ So far, there have been 15 companies that achieved this milestone:
 
 ### Cambridge next unicorn candidates & rising stars & famous startups
 
+* Established
+  * [Horizon Discovery](https://www.horizondiscovery.com/)
+  * * [RaspberryPi](https://www.raspberrypi.org/)
+	  * Raspberry Pi Foundation is a UK-based charity
+	  * [Wikipedia profile](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
+* [Five AI](http://www.five.ai/)
+  * Self-driving cars
 * [Prowler.io](https://www.prowler.io/)
 * [Geospock](https://geospock.com/)
-* [RaspberryPi](https://www.raspberrypi.org/)
-  * Raspberry Pi Foundation is a UK-based charity
-  * [Wikipedia profile](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 
 ### Current Cambridge startups
 
@@ -445,6 +450,11 @@ To automate that process, MOSS has been developed, the [VAT Mini One Stop Shop (
 ### Entrepreneurship podcasts
 
 * [NPR's "How I Built This with Guy Raz" with  (probably the best podcast on the topic)](https://www.npr.org/podcasts/510313/how-i-built-this)
+
+### Useful links for entrepreneurs
+
+* [IndieHacker](https://www.indiehackers.com/products)
+* [HackerNews by YCombinator](https://news.ycombinator.com/)
 
 ## You want to add / change something?
 
