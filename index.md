@@ -319,8 +319,10 @@ So far, there have been 15 companies that achieved this milestone:
 ### Cambridge next unicorn candidates & rising stars & famous startups
 
 * Established
+  * [Cambridge Epigenetix](https://cambridge-epigenetix.com/)
+    * Biomedicine (epigenetics)
   * [Horizon Discovery](https://www.horizondiscovery.com/)
-  * * [RaspberryPi](https://www.raspberrypi.org/)
+  * [RaspberryPi](https://www.raspberrypi.org/)
 	  * Raspberry Pi Foundation is a UK-based charity
 	  * [Wikipedia profile](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
 * [Five AI](http://www.five.ai/)
