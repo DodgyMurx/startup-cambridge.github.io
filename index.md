@@ -110,8 +110,9 @@ The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.u
 
 * [Cambridge University Entrepreneurs (CUE)](https://www.cue.org.uk/)
   * Largest entrepreneur society at Cambridge University
-* [Cambridge University Technology and Enterprise Club (CUTEC)](http://www.cutec.org/)
-  * Annual ["Technology Ventures Conference"](https://www.cambridgetvc.com/) with annually changing domain focus, such as AI or health
+* [Cambridge University Technology and Enterprise Club (CUTEC)](https://www.cutec.io/)
+  * Annual ["Technology Ventures Conference (TVC)"](https://www.cambridgetvc.com/) with annually changing domain focus, such as AI or health
+  * Please note that the previous domain cutec.org is outdated and cutec.io is now being used
 * [Entrepreneurial Postdocs of Cambridge (EPOC)](https://www.epoc.group.cam.ac.uk/)
   * "The business face of the Cambridge research community"
 * [Cambridge University StartUp Society (CUSUS)](http://cusus.org)
