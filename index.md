@@ -391,7 +391,11 @@ These offers may be discounts, deferred payments, or variable payments linked to
 #### VAT rules
 
 * Verification of country using a 2 out of 3 rule
-* MOSS VAT
+
+##### MOSS VAT
+If you sell product or services to customers, you generally have to collect VAT and then somehow transfer that money to the country where the customer is based. Now, that is impractical if you sell digitally and your customers can be anywhere in the world.
+To automate that process, MOSS has been developed, the [VAT Mini One Stop Shop (MOSS)](https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop).
+
 
 ## Misc.
 
