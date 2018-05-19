@@ -27,6 +27,7 @@ Join the discord server to:
 - [Startup Cambridge](#startup-cambridge)
 	- [Discord server](#discord-server)
 - [Table of contents](#table-of-contents)
+	- [Cambridge area](#cambridge-area)
 - [Useful local links and advice](#useful-local-links-and-advice)
 	- [University environment / startup ecosystem](#university-environment-startup-ecosystem)
 		- [Entrepreneurial student societies](#entrepreneurial-student-societies)
@@ -53,6 +54,7 @@ Join the discord server to:
 	- [Local Hackathons](#local-hackathons)
 	- [Local startup / entrepreneurship events](#local-startup-entrepreneurship-events)
 	- [Local startup news](#local-startup-news)
+	- [Cambridge development groups / initiatives](#cambridge-development-groups-initiatives)
 	- [Local startups](#local-startups)
 		- [Cambridge startup map](#cambridge-startup-map)
 		- [Cambridge unicorns](#cambridge-unicorns)
@@ -67,10 +69,12 @@ Join the discord server to:
 	- [Finding co-founders or additional team members](#finding-co-founders-or-additional-team-members)
 	- [Entrepreneur events](#entrepreneur-events)
 	- [Important advice](#important-advice)
+		- [Set up a contract between all founders / stakeholders](#set-up-a-contract-between-all-founders-stakeholders)
 		- [SEIS and EIS scheme](#seis-and-eis-scheme)
 		- [EU law](#eu-law)
 			- [Data privacy](#data-privacy)
 			- [VAT rules](#vat-rules)
+				- [MOSS VAT](#moss-vat)
 	- [Misc.](#misc)
 	- [Non-local links](#non-local-links)
 		- [London](#london)
@@ -80,6 +84,8 @@ Join the discord server to:
 		- [Thinking of a name](#thinking-of-a-name)
 			- [Finding a domain name](#finding-a-domain-name)
 		- [Checking existing trademarks](#checking-existing-trademarks)
+	- [Misc.](#misc)
+		- [Entrepreneurship podcasts](#entrepreneurship-podcasts)
 	- [You want to add / change something?](#you-want-to-add-change-something)
 		- [If you are tech-savvy:](#if-you-are-tech-savvy)
 		- [If you are medium tech-savvy:](#if-you-are-medium-tech-savvy)
@@ -437,6 +443,12 @@ To automate that process, MOSS has been developed, the [VAT Mini One Stop Shop (
   * [International trademark register](http://www.wipo.int/branddb/en/)
   * [European trademark register](https://euipo.europa.eu/eSearch/#basic)
 * Even just similar names can be problematic if customers can confuse brands.
+
+## Misc.
+
+### Entrepreneurship podcasts
+
+* [NPR's "How I Built This with Guy Raz" with  (probably the best podcast on the topic)](https://www.npr.org/podcasts/510313/how-i-built-this)
 
 ## You want to add / change something?
 
