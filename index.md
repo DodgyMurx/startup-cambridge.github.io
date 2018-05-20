@@ -191,17 +191,27 @@ Competitions organisaed by colleges often require one team member to be member o
 * [Accelerate Cambridge](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/)
   * Run by the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/)
 
-## Local domain experts who are open to discuss problems with you
+## Useful links and advice by domain
 
 ### Machine Learning
 
+#### Local domain experts who are open to discuss problems with you
+
 ### Computer Science (programming and IT architecture)
+
+#### Local domain experts who are open to discuss problems with you
 
 ### Biotech
 
+#### Local domain experts who are open to discuss problems with you
+
 ### Mathematics
 
+#### Local domain experts who are open to discuss problems with you
+
 ### Legal
+
+#### Local domain experts who are open to discuss problems with you
 
 ## Local business angels, investors, VCs
 
