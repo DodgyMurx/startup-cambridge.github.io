@@ -255,7 +255,6 @@ venture funds
   * Managing director of ET Capital Limited: Martin Rigby
 * [Cambridge Venture Partners Ltd.](http://cambridge.ventures/)
 * SyndicateRoom
-* Cambridge Innovation Capital plc
 * IQ Capital Partners LLP
 * University of Cambridge Enterprise
 * Cambridge Capital Group
