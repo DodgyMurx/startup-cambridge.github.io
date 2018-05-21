@@ -71,9 +71,17 @@ Join the discord server to:
 		- [Sold startups](#sold-startups)
 		- [Deadpool (name and short description)](#deadpool-name-and-short-description)
 	- [Local incubators](#local-incubators)
+	- [Funding opportunities](#funding-opportunities)
+		- [Local](#local)
+		- [UK-wide](#uk-wide)
+		- [International](#international)
+			- [Crowdfunding](#crowdfunding)
 	- [Local companies with special offers for local startups](#local-companies-with-special-offers-for-local-startups)
 	- [Workspaces / Co-working spaces](#workspaces-co-working-spaces)
 		- [Out of the ordinary](#out-of-the-ordinary)
+	- [Computational resources](#computational-resources)
+		- [For academics](#for-academics)
+		- [Generally available options (focus on Machine Learning)](#generally-available-options-focus-on-machine-learning)
 	- [Finding co-founders or additional team members](#finding-co-founders-or-additional-team-members)
 	- [Entrepreneur events](#entrepreneur-events)
 	- [Graduate Entrepreneurs Visa](#graduate-entrepreneurs-visa)
@@ -111,7 +119,7 @@ Join the discord server to:
 The Cambridge ecosystem is also known as ["Silicon Fen"](https://en.wikipedia.org/wiki/Silicon_Fen), the 'Cambridge Technopole', the 'Cambridge Cluster', or the 'Cambridge Phenomenon'. The area is now one of the most important technology centres in Europe.
 
 ### Technopole report
-An overview of the ecosystem is available via the [Technopole report](https://www.ifm.eng.cam.ac.uk/research/ctm/ctmresearch/te/cambridge-technopole/) published by the Institute for Manufacturing.
+An overview of the ecosystem is available via the [Technopole report (2013)](https://www.ifm.eng.cam.ac.uk/research/ctm/ctmresearch/te/cambridge-technopole/) published by the Institute for Manufacturing and the St. John’s Innovation Centre.
 
 # Useful local links and advice
 
@@ -410,6 +418,18 @@ So far, there have been 15 companies that achieved this milestone:
   * Co-working space in 3 offices in Cambridge (part-time fee: £80 excl. VAT; full-time fee: £250 excl. VAT)
 * ...
 
+## Funding opportunities
+
+### Local
+
+### UK-wide
+* ['Brian Mercer Award for Innovation' by the Royal Society](https://royalsociety.org/grants-schemes-awards/grants/brian-mercer-innovation/)
+
+### International
+
+#### Crowdfunding
+* Kickstarter
+
 ## Local companies with special offers for local startups
 These offers may be discounts, deferred payments, or variable payments linked to your success.
 
@@ -430,6 +450,17 @@ These offers may be discounts, deferred payments, or variable payments linked to
 * [CamJelly](https://www.meetup.com/de-DE/camjelly/)
   * Co-working Meetups
   * Cambridge's CoWorking Community
+
+## Computational resources
+The recent trend of Machine Learning affecting all areas of science and business increased the demand for computational resources.
+
+### For academics
+The High Performance Computing cluster provides free resources for students. The resources do not have to be used for your direct academic purposes _but_ they are allocated on a "per PI" basis. The PI has no monetary cost but each PI's budget is limited to 8000 GPU hours per quarter.
+
+### Generally available options (focus on Machine Learning)
+
+* Amazon Web services (AWS)
+* [Paperspace](https://www.paperspace.com/)
 
 ## Finding co-founders or additional team members
 * Check out our [Discord server](https://discord.gg/hspfpFp)
