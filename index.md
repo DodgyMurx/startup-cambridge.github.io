@@ -28,6 +28,7 @@ Join the discord server to:
 	- [Discord server](#discord-server)
 - [Table of contents](#table-of-contents)
 	- [Cambridge area](#cambridge-area)
+		- [Technopole report](#technopole-report)
 - [Useful local links and advice](#useful-local-links-and-advice)
 	- [University environment / startup ecosystem](#university-environment-startup-ecosystem)
 		- [Entrepreneurial student societies](#entrepreneurial-student-societies)
@@ -41,18 +42,25 @@ Join the discord server to:
 			- [Anglia Ruskin University](#anglia-ruskin-university)
 			- [Organised by colleges](#organised-by-colleges)
 		- [Accelerator programmes & similar](#accelerator-programmes-similar)
-	- [Local domain experts who are open to discuss problems with you](#local-domain-experts-who-are-open-to-discuss-problems-with-you)
+	- [Useful links and advice by domain](#useful-links-and-advice-by-domain)
+		- [General](#general)
 		- [Machine Learning](#machine-learning)
+			- [Local domain experts who are open to discuss problems with you](#local-domain-experts-who-are-open-to-discuss-problems-with-you)
 		- [Computer Science (programming and IT architecture)](#computer-science-programming-and-it-architecture)
+			- [Local domain experts who are open to discuss problems with you](#local-domain-experts-who-are-open-to-discuss-problems-with-you)
 		- [Biotech](#biotech)
+			- [Local domain experts who are open to discuss problems with you](#local-domain-experts-who-are-open-to-discuss-problems-with-you)
 		- [Mathematics](#mathematics)
+			- [Local domain experts who are open to discuss problems with you](#local-domain-experts-who-are-open-to-discuss-problems-with-you)
 		- [Legal](#legal)
+			- [Local domain experts who are open to discuss problems with you](#local-domain-experts-who-are-open-to-discuss-problems-with-you)
 	- [Local business angels, investors, VCs](#local-business-angels-investors-vcs)
 		- [Business angel groups](#business-angel-groups)
 		- [Individual business angels / investors](#individual-business-angels-investors)
 		- [VCs / Investing organisations](#vcs-investing-organisations)
 	- [Local Hackathons](#local-hackathons)
 	- [Local startup / entrepreneurship events](#local-startup-entrepreneurship-events)
+	- [Local resources for makers of physical products](#local-resources-for-makers-of-physical-products)
 	- [Local startup news](#local-startup-news)
 	- [Cambridge development groups / initiatives](#cambridge-development-groups-initiatives)
 	- [Local startups](#local-startups)
@@ -68,6 +76,7 @@ Join the discord server to:
 		- [Out of the ordinary](#out-of-the-ordinary)
 	- [Finding co-founders or additional team members](#finding-co-founders-or-additional-team-members)
 	- [Entrepreneur events](#entrepreneur-events)
+	- [Graduate Entrepreneurs Visa](#graduate-entrepreneurs-visa)
 	- [Important advice](#important-advice)
 		- [Set up a contract between all founders / stakeholders](#set-up-a-contract-between-all-founders-stakeholders)
 		- [SEIS and EIS scheme](#seis-and-eis-scheme)
@@ -85,6 +94,7 @@ Join the discord server to:
 		- [Checking existing trademarks](#checking-existing-trademarks)
 	- [Misc.](#misc)
 		- [Entrepreneurship podcasts](#entrepreneurship-podcasts)
+		- [Useful links for entrepreneurs](#useful-links-for-entrepreneurs)
 	- [You want to add / change something?](#you-want-to-add-change-something)
 		- [If you are tech-savvy:](#if-you-are-tech-savvy)
 		- [If you are medium tech-savvy:](#if-you-are-medium-tech-savvy)
@@ -98,7 +108,10 @@ Join the discord server to:
 <!-- /TOC -->
 
 ## Cambridge area
-The Cambridge ecosystem is also known as ["Silicon Fen"](https://en.wikipedia.org/wiki/Silicon_Fen). The area is now one of the most important technology centres in Europe.
+The Cambridge ecosystem is also known as ["Silicon Fen"](https://en.wikipedia.org/wiki/Silicon_Fen), the 'Cambridge Technopole', the 'Cambridge Cluster', or the 'Cambridge Phenomenon'. The area is now one of the most important technology centres in Europe.
+
+### Technopole report
+An overview of the ecosystem is available via the [Technopole report](https://www.ifm.eng.cam.ac.uk/research/ctm/ctmresearch/te/cambridge-technopole/) published by the Institute for Manufacturing.
 
 # Useful local links and advice
 
@@ -121,7 +134,9 @@ The [University Enterprise Network](https://www.enterprisenetwork.group.cam.ac.u
 ### Tech-related student societies
 These societies are not directly entrepreneurial but focus on specific technologies or tech areas. They may be helpful if you want to connect to people with expertise in these technological domains.
 
-* [Hackers at Cambridge](https://hackersatcambridge.com/)
+* [Hackers at Cambridge (HaC)](https://hackersatcambridge.com/)
+  * [Workshops and materials](https://hackersatcambridge.com/workshops)
+  * [Weekly meetings called HaC Nights (Facebook page)](https://www.facebook.com/hackersatcambridge)
 * [Virtual Reality (VR / AR / MR) society (closed Facebook group)](https://www.facebook.com/groups/914339718718750/)
 * [Student-Run Computing Facility (SRCF)](https://www.srcf.net/)
   * Cambridge-based society to provide useful and flexible computing and network services to students and staff
@@ -130,6 +145,7 @@ These societies are not directly entrepreneurial but focus on specific technolog
 * [Innovation Forum](http://cambridge.inno-forum.org/)
   * The Innovation Forum is a student-led initiative that seeks to build bridges between academia, industry and policy makers.
 * [Hackbridge.io](Hackbridge.io)
+	- [Collaborative sessions](https://hackbridge.io/cluster.html) called "cluster"; in collaboration with HackersAtCambridge (HaC)
 * [Science Union](http://science-union.org/)
   * Non-profit organisation
   * Support for translating science into real-world solutions
@@ -173,7 +189,7 @@ These societies are not directly entrepreneurial but focus on specific technolog
   * Annual competition exclusively for undergraduate and postgraduate students at Anglia Ruskin University
 
 #### Organised by colleges
-Competitions organisaed by colleges often require one team member to be member of the college.
+Competitions organised by colleges often require one team member to be member of the college.
 
 * [Hughes Hall Enterprise Award](https://www.hugheshallenterprise.org/the-hughes-hall-enterprise-award.html)
   * One team member must be affiliated with Hughes Hall
@@ -185,13 +201,23 @@ Competitions organisaed by colleges often require one team member to be member o
   * Annual business plan competition for all students of Downing College
   * Prizes of up to £2000 for one-page business descriptions
   * [Report from past competition](http://www.dow.cam.ac.uk/news/downing-enterprise-first-round-impresses-judges)
+* [Pembroke's 'The Parmee Prize for Enterprise and Entrepreneurship'](http://www.pem.cam.ac.uk/corporate-partnership-programme/events/the-parmee-prize-for-enterprise-and-entrepreneurship/)
+	- Annual prize for the best business idea from the Pembroke community
 
 ### Accelerator programmes & similar
 
 * [Accelerate Cambridge](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/accelerate-cambridge/)
   * Run by the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/)
+* [i-Teams](https://iteamsonline.org/about-i-teams/)
+  * i-Teams runs projects in Cambridge during each Cambridge University term.
+* ['Impulse' programme at the Maxwell Centre](https://www.maxwell.cam.ac.uk/programmes/impulse)
+	- [Costs and application process](https://www.maxwell.cam.ac.uk/programmes/impulse/impulse-application-process)
+*
 
 ## Useful links and advice by domain
+
+### General
+There is a [list of Enterprise champions](https://www.enterprise.cam.ac.uk/our-services/academics-researchers-and-students/enterprise-champions/) maintained by Cambridge Enterprise for _each_ department of the university. This includes the departments of Architecture; Arts, Humanities and Social Sciences, etc. These Enterprise champions act as a first point of contact for department members who want advice on bringing their ideas and expertise to market.
 
 ### Machine Learning
 
@@ -202,6 +228,10 @@ Competitions organisaed by colleges often require one team member to be member o
 #### Local domain experts who are open to discuss problems with you
 
 ### Biotech
+
+* [Babraham Research Campus](https://www.babraham.com/)
+	- "One of the UK’s leading campus' to support early-stage bioscience enterprise"
+* [Biomakespace](https://biomake.space/home)
 
 #### Local domain experts who are open to discuss problems with you
 
@@ -301,6 +331,19 @@ venture funds
 ## Local startup / entrepreneurship events
 
 * [Enterprise Calendar](https://www.enterprisenetwork.group.cam.ac.uk/enterprise-calendar)
+* [Tech Meetups in Cambridge](https://www.meetup.com/cities/gb/c3/cambridge/tech/)
+
+## Local resources for makers of physical products
+If you work on physical products, these are some of the resources available in Cambridge:
+
+* [Makespace](http://makespace.org/)
+	- [Equipment](http://wiki.makespace.org/Equipment) includes 3D printers and CNC mills
+* 3D printing facilities
+	- [Institute for Manufacturing (IfM)](https://www.ifm.eng.cam.ac.uk/insights/3d-printing/) 3D Printing Lab (for MET students only)
+		- [Equipment](https://www.ifm.eng.cam.ac.uk/news/ifm-launches-3d-printing-lab-for-students/)
+	- [Cambridge University 3D printing club (appears to be dead)](https://www.dysoncentre.eng.cam.ac.uk/cu3d)
+	- [3D printing at the Dyson Centre](https://www.dysoncentre.eng.cam.ac.uk/3d-printing)
+	- [Makespace](http://makespace.org/)
 
 ## Local startup news
 
@@ -395,6 +438,10 @@ These offers may be discounts, deferred payments, or variable payments linked to
 
 * [EPOC events](https://www.epoc.group.cam.ac.uk/events)
 * [Enterprise Tuesday](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/enterprise-tuesday/)
+
+## Graduate Entrepreneurs Visa
+The University of Cambridge is an endorsing institution under the Home Office’s [Tier 1 (Graduate Entrepreneur)](https://www.gov.uk/tier-1-entrepreneur) route. An overview maintained by the university is available [here](https://www.internationalstudents.cam.ac.uk/tier-1-graduate-entrepreneur).
+
 
 ## Important advice
 
