@@ -222,6 +222,10 @@ Competitions organised by colleges often require one team member to be member of
 	- [Costs and application process](https://www.maxwell.cam.ac.uk/programmes/impulse/impulse-application-process)
 *
 
+## Current local startup competitions
+
+* [2018 AstraZeneca Start-Up Science Competition (Life Science)](https://www.astrazeneca.com/2018-astrazeneca-start-up-science-competition.html)
+
 ## Useful links and advice by domain
 
 ### General
