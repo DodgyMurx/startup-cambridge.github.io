@@ -404,6 +404,9 @@ So far, there have been 15 companies that achieved this milestone:
 * [Reinforce.io](https://reinforce.io/) with their product [Tensorforce](https://github.com/reinforceio/tensorforce)
   * "Deep reinforcement learning for the real world."
 * [Heterogeneous](https://www.heterogeneous.co.uk/)
+	- Genetics / "Heterogeneous connects individuals directly to researchers."
+* [Fetch.ai](https://fetch.ai/)
+	- Blockchain
 
 ### Sold startups
 
