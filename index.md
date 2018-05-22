@@ -42,6 +42,7 @@ Join the discord server to:
 			- [Anglia Ruskin University](#anglia-ruskin-university)
 			- [Organised by colleges](#organised-by-colleges)
 		- [Accelerator programmes & similar](#accelerator-programmes-similar)
+	- [Current local startup competitions](#current-local-startup-competitions)
 	- [Useful links and advice by domain](#useful-links-and-advice-by-domain)
 		- [General](#general)
 		- [Machine Learning](#machine-learning)
