@@ -297,40 +297,43 @@ venture funds
 * Daniel Cowell
 
 ### VCs / Investing organisations
-* [Cambridge Innovation Capital (CIC)](https://www.cicplc.co.uk/)
-  * CIC has raised £125 million from investors to date
-* [ET Capital](http://www.etcapital.com/)
-  * Managing director of ET Capital Limited: Martin Rigby
-* [Cambridge Venture Partners Ltd.](http://cambridge.ventures/)
-* SyndicateRoom
-* IQ Capital Partners LLP
-* University of Cambridge Enterprise
-* Cambridge Capital Group
-* GEIF Ventures
-* The Cambridge Gateway Fund
-* Springboard
-* Acacia Capital Partners
-* ARM
-* Chord Capital
-* Invoke Capital Partners
-* ETCapital
-* NW Brown Ventures
-* Rockspring
-* Martlet
-* University of Cambridge
-* CREATE Partners
-* Fund Twenty8
-* ProQuest
-* Qi3 Ventures
-* University of Cambridge Endowment Fund
-* Horizon Discovery
-* Red Gate Software
-* CSR
-* Oxford & Cambridge Ventures
-* Aitua Ltd
-* Accelerate Cambridge
-* Cantab Capital Partners
-* FUSION Biomed
+* Based in Cambridge (headquarters or offices or local contact person)
+	* [Cambridge Innovation Capital (CIC)](https://www.cicplc.co.uk/)
+	  * CIC has raised £125 million from investors to date
+	* [ET Capital](http://www.etcapital.com/)
+	  * Managing director of ET Capital Limited: Martin Rigby
+	* [Cambridge Venture Partners Ltd.](http://cambridge.ventures/)
+	* Cambridge Enterprise (Cambridge University)
+	* [Cambridge Capital Group (Business angel network)](http://www.cambridgecapitalgroup.co.uk/)
+* Active in Cambridge (have invested in Cambridge startups or are interested in investing in Cambridge startups)
+	* Talis Capital
+		- Contact person: Kirill Tashilov (kirill _AT_ taliscapital.com)
+	* SyndicateRoom
+	* IQ Capital Partners LLP
+	* GEIF Ventures
+	* The Cambridge Gateway Fund
+	* Springboard
+	* Acacia Capital Partners
+	* ARM
+	* Chord Capital
+	* Invoke Capital Partners
+	* ETCapital
+	* NW Brown Ventures
+	* Rockspring
+	* Martlet
+	* CREATE Partners
+	* Fund Twenty8
+	* ProQuest
+	* Qi3 Ventures
+	* University of Cambridge Endowment Fund
+	* Horizon Discovery
+	* Red Gate Software
+	* CSR
+	* Oxford & Cambridge Ventures
+	* Aitua Ltd
+	* Accelerate Cambridge
+	* Cantab Capital Partners
+	* FUSION Biomed
 
 ## Local Hackathons
 
@@ -512,6 +515,7 @@ To automate that process, MOSS has been developed, the [VAT Mini One Stop Shop (
   * London-based company builder and startup accelerator
   * You can join them without having an idea yet
   * EF helps you to find a co-founder, develop an idea, and find investors
+* [Business Growth Programme](http://business.london/business-growth-programme)
 
 ### UK-wide
 * [Startup Britain](http://startupbritain.org/)
